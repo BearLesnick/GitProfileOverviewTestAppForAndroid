@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitRepoObserverApp</string>
+    <string name="navigation_drawer_open">navigation draver open</string>
+    <string name="navigation_drawer_close">navigation drawer close</string>
+    <string name="user">User</string>
+    <string name="repositories">Repositories</string>
+    <string name="starred">Starred</string>
+</resources>
